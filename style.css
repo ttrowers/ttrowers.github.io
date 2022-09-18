@@ -1,0 +1,9 @@
+h4{
+    font-weight:bold;
+}
+.jumbotron{
+    color:orange;
+    background-image:url("science.jpg");
+    background-size: 100% 100;
+    text-align: center;
+}
